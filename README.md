@@ -21,8 +21,9 @@ I enjoy working across the entire stack — from UI/UX to backend services, data
 ### 💻 Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript)
-![Nodejs](https://img.shields.io/badge/Nodejs-323330?logo=nodejs))
+![Nodejs](https://img.shields.io/badge/Nodejs-323330?logo=nodejs)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00ADD8?logo=python)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-00ADD8?logo=rust&logoColor=white)
 
