@@ -70,34 +70,6 @@ I enjoy working across the entire stack — from UI/UX to backend services, data
 - AI-powered tools & integrations  
 - Developer tooling & automation  
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zsweiter&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zsweiter&layout=compact&theme=tokyonight)
-
----
-
-## 🧪 Development Philosophy
-
-```text
-✔ Clean architecture
-✔ Scalable systems
-✔ Performance-focused
-✔ Maintainable code
-✔ Continuous learning
-````
-
----
-
-## 📫 Contact
-
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-* Portfolio / Website: (optional)
-* LinkedIn: (optional)
-
----
 
 ⭐️ *Always learning, always building.*
 
